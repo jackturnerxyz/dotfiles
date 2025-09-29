@@ -1,0 +1,32 @@
+* {
+    border: none;
+    font-family: sans-serif;
+    font-size: 13px;
+    min-height: 0;
+}
+
+window#waybar {
+    background: #2e2e2d;
+    color: #ffffff;
+}
+
+#workspaces {
+}
+
+#workspaces button {
+    padding: 0 5px;
+    color: #ffffff;
+    border-radius: 0;
+}
+
+#workspaces button.active {
+    background: #444444;
+}
+
+#workspaces button:hover {
+    background: #222222;
+}
+
+#clock {
+    margin: 0 5px;
+}

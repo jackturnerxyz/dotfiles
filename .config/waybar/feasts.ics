@@ -1,0 +1,3659 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Universalis
+X-WR-CALNAME:Universalis Canada
+X-WR-CALDESC:Calendar for Canada
+X-PUBLISHED-TTL:P13W
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250828
+UID:/Canada/20250828/
+URL:http://universalis.com/Canada/20250828/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250828/today.htm
+SUMMARY:Saint Augustine, Bishop, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250829
+UID:/Canada/20250829/
+URL:http://universalis.com/Canada/20250829/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250829/today.htm
+SUMMARY:The Beheading of Saint John the Baptist
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250830
+UID:/Canada/20250830/
+URL:http://universalis.com/Canada/20250830/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250830/today.htm
+SUMMARY:Saturday of week 21 in Ordinary Time,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250831
+UID:/Canada/20250831/
+URL:http://universalis.com/Canada/20250831/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250831/today.htm
+SUMMARY:22nd Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250901
+UID:/Canada/20250901/
+URL:http://universalis.com/Canada/20250901/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250901/today.htm
+SUMMARY:Monday of week 22 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250902
+UID:/Canada/20250902/
+URL:http://universalis.com/Canada/20250902/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250902/today.htm
+SUMMARY:Tuesday of week 22 in Ordinary Time,\n or Blessed André Grasset, Priest and Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250903
+UID:/Canada/20250903/
+URL:http://universalis.com/Canada/20250903/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250903/today.htm
+SUMMARY:Saint Gregory the Great, Pope, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250904
+UID:/Canada/20250904/
+URL:http://universalis.com/Canada/20250904/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250904/today.htm
+SUMMARY:Thursday of week 22 in Ordinary Time,\n or Blessed Dina Bélanger, Virgin
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250905
+UID:/Canada/20250905/
+URL:http://universalis.com/Canada/20250905/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250905/today.htm
+SUMMARY:Friday of week 22 in Ordinary Time,\n or Saint Teresa of Calcutta (Mother Teresa)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250906
+UID:/Canada/20250906/
+URL:http://universalis.com/Canada/20250906/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250906/today.htm
+SUMMARY:Saturday of week 22 in Ordinary Time,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250907
+UID:/Canada/20250907/
+URL:http://universalis.com/Canada/20250907/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250907/today.htm
+SUMMARY:23rd Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250908
+UID:/Canada/20250908/
+URL:http://universalis.com/Canada/20250908/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250908/today.htm
+SUMMARY:The Birthday of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250909
+UID:/Canada/20250909/
+URL:http://universalis.com/Canada/20250909/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250909/today.htm
+SUMMARY:Tuesday of week 23 in Ordinary Time,\n or Saint Peter Claver
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250910
+UID:/Canada/20250910/
+URL:http://universalis.com/Canada/20250910/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250910/today.htm
+SUMMARY:Wednesday of week 23 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250911
+UID:/Canada/20250911/
+URL:http://universalis.com/Canada/20250911/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250911/today.htm
+SUMMARY:Thursday of week 23 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250912
+UID:/Canada/20250912/
+URL:http://universalis.com/Canada/20250912/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250912/today.htm
+SUMMARY:Friday of week 23 in Ordinary Time,\n or The Most Holy Name of Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250913
+UID:/Canada/20250913/
+URL:http://universalis.com/Canada/20250913/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250913/today.htm
+SUMMARY:Saint John Chrysostom, Bishop, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250914
+UID:/Canada/20250914/
+URL:http://universalis.com/Canada/20250914/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250914/today.htm
+SUMMARY:The Exaltation of the Holy Cross
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250915
+UID:/Canada/20250915/
+URL:http://universalis.com/Canada/20250915/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250915/today.htm
+SUMMARY:Our Lady of Sorrows
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250916
+UID:/Canada/20250916/
+URL:http://universalis.com/Canada/20250916/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250916/today.htm
+SUMMARY:Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250917
+UID:/Canada/20250917/
+URL:http://universalis.com/Canada/20250917/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250917/today.htm
+SUMMARY:Wednesday of week 24 in Ordinary Time,\n or Saint Robert Bellarmine, Bishop, Doctor,\n or Saint Hildegard of Bingen, Virgin, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250918
+UID:/Canada/20250918/
+URL:http://universalis.com/Canada/20250918/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250918/today.htm
+SUMMARY:Thursday of week 24 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250919
+UID:/Canada/20250919/
+URL:http://universalis.com/Canada/20250919/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250919/today.htm
+SUMMARY:Friday of week 24 in Ordinary Time,\n or Saint Januarius, Bishop, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250920
+UID:/Canada/20250920/
+URL:http://universalis.com/Canada/20250920/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250920/today.htm
+SUMMARY:Saints Andrew Kim Taegon, Priest, and Paul Chong Hasang, and their Companions, Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250921
+UID:/Canada/20250921/
+URL:http://universalis.com/Canada/20250921/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250921/today.htm
+SUMMARY:25th Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250922
+UID:/Canada/20250922/
+URL:http://universalis.com/Canada/20250922/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250922/today.htm
+SUMMARY:Monday of week 25 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250923
+UID:/Canada/20250923/
+URL:http://universalis.com/Canada/20250923/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250923/today.htm
+SUMMARY:Saint Pius of Pietrelcina (Padre Pio), Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250924
+UID:/Canada/20250924/
+URL:http://universalis.com/Canada/20250924/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250924/today.htm
+SUMMARY:Wednesday of week 25 in Ordinary Time,\n or Blessed Émilie Tavernier-Gamelin, Religious
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250925
+UID:/Canada/20250925/
+URL:http://universalis.com/Canada/20250925/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250925/today.htm
+SUMMARY:Thursday of week 25 in Ordinary Time,\n or Saints Cosmas and Damian, Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250926
+UID:/Canada/20250926/
+URL:http://universalis.com/Canada/20250926/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250926/today.htm
+SUMMARY:Saints John de Brébeuf and Isaac Jogues, priests, and their Companions, Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250927
+UID:/Canada/20250927/
+URL:http://universalis.com/Canada/20250927/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250927/today.htm
+SUMMARY:Saint Vincent de Paul, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250928
+UID:/Canada/20250928/
+URL:http://universalis.com/Canada/20250928/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250928/today.htm
+SUMMARY:26th Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250929
+UID:/Canada/20250929/
+URL:http://universalis.com/Canada/20250929/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250929/today.htm
+SUMMARY:Saints Michael, Gabriel and Raphael, Archangels
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20250930
+UID:/Canada/20250930/
+URL:http://universalis.com/Canada/20250930/today.htm
+DESCRIPTION:http://universalis.com/Canada/20250930/today.htm
+SUMMARY:Saint Jerome, Priest, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251001
+UID:/Canada/20251001/
+URL:http://universalis.com/Canada/20251001/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251001/today.htm
+SUMMARY:Saint Thérèse of the Child Jesus, Virgin, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251002
+UID:/Canada/20251002/
+URL:http://universalis.com/Canada/20251002/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251002/today.htm
+SUMMARY:The Holy Guardian Angels
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251003
+UID:/Canada/20251003/
+URL:http://universalis.com/Canada/20251003/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251003/today.htm
+SUMMARY:Friday of week 26 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251004
+UID:/Canada/20251004/
+URL:http://universalis.com/Canada/20251004/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251004/today.htm
+SUMMARY:Saint Francis of Assisi
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251005
+UID:/Canada/20251005/
+URL:http://universalis.com/Canada/20251005/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251005/today.htm
+SUMMARY:27th Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251006
+UID:/Canada/20251006/
+URL:http://universalis.com/Canada/20251006/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251006/today.htm
+SUMMARY:Monday of week 27 in Ordinary Time,\n or Saint Bruno, Priest,\n or Blessed Marie-Rose Durocher
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251007
+UID:/Canada/20251007/
+URL:http://universalis.com/Canada/20251007/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251007/today.htm
+SUMMARY:Our Lady of the Rosary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251008
+UID:/Canada/20251008/
+URL:http://universalis.com/Canada/20251008/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251008/today.htm
+SUMMARY:Wednesday of week 27 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251009
+UID:/Canada/20251009/
+URL:http://universalis.com/Canada/20251009/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251009/today.htm
+SUMMARY:Thursday of week 27 in Ordinary Time,\n or Saints Denis, Bishop, and his Companions, Martyrs,\n or Saint John Leonardi, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251010
+UID:/Canada/20251010/
+URL:http://universalis.com/Canada/20251010/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251010/today.htm
+SUMMARY:Friday of week 27 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251011
+UID:/Canada/20251011/
+URL:http://universalis.com/Canada/20251011/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251011/today.htm
+SUMMARY:Saturday of week 27 in Ordinary Time,\n or Saint John XXIII, Pope,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251012
+UID:/Canada/20251012/
+URL:http://universalis.com/Canada/20251012/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251012/today.htm
+SUMMARY:28th Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251013
+UID:/Canada/20251013/
+URL:http://universalis.com/Canada/20251013/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251013/today.htm
+SUMMARY:Monday of week 28 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251014
+UID:/Canada/20251014/
+URL:http://universalis.com/Canada/20251014/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251014/today.htm
+SUMMARY:Tuesday of week 28 in Ordinary Time,\n or Saint Callistus, Pope, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251015
+UID:/Canada/20251015/
+URL:http://universalis.com/Canada/20251015/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251015/today.htm
+SUMMARY:Saint Teresa of Ávila, Virgin, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251016
+UID:/Canada/20251016/
+URL:http://universalis.com/Canada/20251016/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251016/today.htm
+SUMMARY:Saint Marguerite d'Youville
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251017
+UID:/Canada/20251017/
+URL:http://universalis.com/Canada/20251017/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251017/today.htm
+SUMMARY:Saint Ignatius of Antioch, Bishop, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251018
+UID:/Canada/20251018/
+URL:http://universalis.com/Canada/20251018/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251018/today.htm
+SUMMARY:Saint Luke, Evangelist
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251019
+UID:/Canada/20251019/
+URL:http://universalis.com/Canada/20251019/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251019/today.htm
+SUMMARY:29th Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251020
+UID:/Canada/20251020/
+URL:http://universalis.com/Canada/20251020/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251020/today.htm
+SUMMARY:Monday of week 29 in Ordinary Time,\n or Saint Hedwig, Religious,\n or Saint Margaret Mary Alacoque, Virgin
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251021
+UID:/Canada/20251021/
+URL:http://universalis.com/Canada/20251021/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251021/today.htm
+SUMMARY:Tuesday of week 29 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251022
+UID:/Canada/20251022/
+URL:http://universalis.com/Canada/20251022/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251022/today.htm
+SUMMARY:Wednesday of week 29 in Ordinary Time,\n or Saint John Paul II, Pope
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251023
+UID:/Canada/20251023/
+URL:http://universalis.com/Canada/20251023/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251023/today.htm
+SUMMARY:Thursday of week 29 in Ordinary Time,\n or Saint John of Capistrano, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251024
+UID:/Canada/20251024/
+URL:http://universalis.com/Canada/20251024/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251024/today.htm
+SUMMARY:Friday of week 29 in Ordinary Time,\n or Saint Antony Mary Claret, Bishop
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251025
+UID:/Canada/20251025/
+URL:http://universalis.com/Canada/20251025/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251025/today.htm
+SUMMARY:Saturday of week 29 in Ordinary Time,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251026
+UID:/Canada/20251026/
+URL:http://universalis.com/Canada/20251026/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251026/today.htm
+SUMMARY:30th Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251027
+UID:/Canada/20251027/
+URL:http://universalis.com/Canada/20251027/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251027/today.htm
+SUMMARY:Monday of week 30 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251028
+UID:/Canada/20251028/
+URL:http://universalis.com/Canada/20251028/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251028/today.htm
+SUMMARY:Saints Simon and Jude, Apostles
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251029
+UID:/Canada/20251029/
+URL:http://universalis.com/Canada/20251029/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251029/today.htm
+SUMMARY:Wednesday of week 30 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251030
+UID:/Canada/20251030/
+URL:http://universalis.com/Canada/20251030/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251030/today.htm
+SUMMARY:Thursday of week 30 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251031
+UID:/Canada/20251031/
+URL:http://universalis.com/Canada/20251031/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251031/today.htm
+SUMMARY:Friday of week 30 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251101
+UID:/Canada/20251101/
+URL:http://universalis.com/Canada/20251101/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251101/today.htm
+SUMMARY:All Saints
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251102
+UID:/Canada/20251102/
+URL:http://universalis.com/Canada/20251102/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251102/today.htm
+SUMMARY:All Souls
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251103
+UID:/Canada/20251103/
+URL:http://universalis.com/Canada/20251103/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251103/today.htm
+SUMMARY:Monday of week 31 in Ordinary Time,\n or Saint Martin de Porres, Religious
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251104
+UID:/Canada/20251104/
+URL:http://universalis.com/Canada/20251104/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251104/today.htm
+SUMMARY:Saint Charles Borromeo, Bishop
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251105
+UID:/Canada/20251105/
+URL:http://universalis.com/Canada/20251105/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251105/today.htm
+SUMMARY:Wednesday of week 31 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251106
+UID:/Canada/20251106/
+URL:http://universalis.com/Canada/20251106/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251106/today.htm
+SUMMARY:Thursday of week 31 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251107
+UID:/Canada/20251107/
+URL:http://universalis.com/Canada/20251107/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251107/today.htm
+SUMMARY:Friday of week 31 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251108
+UID:/Canada/20251108/
+URL:http://universalis.com/Canada/20251108/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251108/today.htm
+SUMMARY:Saturday of week 31 in Ordinary Time,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251109
+UID:/Canada/20251109/
+URL:http://universalis.com/Canada/20251109/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251109/today.htm
+SUMMARY:Dedication of the Lateran Basilica
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251110
+UID:/Canada/20251110/
+URL:http://universalis.com/Canada/20251110/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251110/today.htm
+SUMMARY:Saint Leo the Great, Pope, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251111
+UID:/Canada/20251111/
+URL:http://universalis.com/Canada/20251111/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251111/today.htm
+SUMMARY:Saint Martin of Tours, Bishop
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251112
+UID:/Canada/20251112/
+URL:http://universalis.com/Canada/20251112/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251112/today.htm
+SUMMARY:Saint Josaphat, Bishop, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251113
+UID:/Canada/20251113/
+URL:http://universalis.com/Canada/20251113/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251113/today.htm
+SUMMARY:Thursday of week 32 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251114
+UID:/Canada/20251114/
+URL:http://universalis.com/Canada/20251114/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251114/today.htm
+SUMMARY:Friday of week 32 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251115
+UID:/Canada/20251115/
+URL:http://universalis.com/Canada/20251115/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251115/today.htm
+SUMMARY:Saturday of week 32 in Ordinary Time,\n or Saint Albert the Great, Bishop, Doctor,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251116
+UID:/Canada/20251116/
+URL:http://universalis.com/Canada/20251116/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251116/today.htm
+SUMMARY:33rd Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251117
+UID:/Canada/20251117/
+URL:http://universalis.com/Canada/20251117/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251117/today.htm
+SUMMARY:Saint Elizabeth of Hungary, Religious
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251118
+UID:/Canada/20251118/
+URL:http://universalis.com/Canada/20251118/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251118/today.htm
+SUMMARY:Tuesday of week 33 in Ordinary Time,\n or Dedication of the Basilicas of Saints Peter and Paul, Apostles
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251119
+UID:/Canada/20251119/
+URL:http://universalis.com/Canada/20251119/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251119/today.htm
+SUMMARY:Wednesday of week 33 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251120
+UID:/Canada/20251120/
+URL:http://universalis.com/Canada/20251120/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251120/today.htm
+SUMMARY:Thursday of week 33 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251121
+UID:/Canada/20251121/
+URL:http://universalis.com/Canada/20251121/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251121/today.htm
+SUMMARY:The Presentation of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251122
+UID:/Canada/20251122/
+URL:http://universalis.com/Canada/20251122/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251122/today.htm
+SUMMARY:Saint Cecilia, Virgin, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251123
+UID:/Canada/20251123/
+URL:http://universalis.com/Canada/20251123/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251123/today.htm
+SUMMARY:Christ the King
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251124
+UID:/Canada/20251124/
+URL:http://universalis.com/Canada/20251124/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251124/today.htm
+SUMMARY:Saints Andrew Dũng-Lạc and his Companions, Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251125
+UID:/Canada/20251125/
+URL:http://universalis.com/Canada/20251125/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251125/today.htm
+SUMMARY:Tuesday of week 34 in Ordinary Time,\n or Saint Catherine of Alexandria, Virgin, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251126
+UID:/Canada/20251126/
+URL:http://universalis.com/Canada/20251126/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251126/today.htm
+SUMMARY:Wednesday of week 34 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251127
+UID:/Canada/20251127/
+URL:http://universalis.com/Canada/20251127/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251127/today.htm
+SUMMARY:Thursday of week 34 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251128
+UID:/Canada/20251128/
+URL:http://universalis.com/Canada/20251128/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251128/today.htm
+SUMMARY:Friday of week 34 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251129
+UID:/Canada/20251129/
+URL:http://universalis.com/Canada/20251129/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251129/today.htm
+SUMMARY:Saturday of week 34 in Ordinary Time,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251130
+UID:/Canada/20251130/
+URL:http://universalis.com/Canada/20251130/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251130/today.htm
+SUMMARY:1st Sunday of Advent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251201
+UID:/Canada/20251201/
+URL:http://universalis.com/Canada/20251201/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251201/today.htm
+SUMMARY:Monday of the 1st week of Advent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251202
+UID:/Canada/20251202/
+URL:http://universalis.com/Canada/20251202/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251202/today.htm
+SUMMARY:Tuesday of the 1st week of Advent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251203
+UID:/Canada/20251203/
+URL:http://universalis.com/Canada/20251203/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251203/today.htm
+SUMMARY:Saint Francis Xavier, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251204
+UID:/Canada/20251204/
+URL:http://universalis.com/Canada/20251204/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251204/today.htm
+SUMMARY:Thursday of the 1st week of Advent,\n or Saint John Damascene, Priest, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251205
+UID:/Canada/20251205/
+URL:http://universalis.com/Canada/20251205/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251205/today.htm
+SUMMARY:Friday of the 1st week of Advent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251206
+UID:/Canada/20251206/
+URL:http://universalis.com/Canada/20251206/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251206/today.htm
+SUMMARY:Saturday of the 1st week of Advent,\n or Saint Nicholas, Bishop
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251207
+UID:/Canada/20251207/
+URL:http://universalis.com/Canada/20251207/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251207/today.htm
+SUMMARY:2nd Sunday of Advent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251208
+UID:/Canada/20251208/
+URL:http://universalis.com/Canada/20251208/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251208/today.htm
+SUMMARY:The Immaculate Conception of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251209
+UID:/Canada/20251209/
+URL:http://universalis.com/Canada/20251209/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251209/today.htm
+SUMMARY:Tuesday of the 2nd week of Advent,\n or Saint Juan Diego Cuauhtlatoatzin
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251210
+UID:/Canada/20251210/
+URL:http://universalis.com/Canada/20251210/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251210/today.htm
+SUMMARY:Wednesday of the 2nd week of Advent,\n or Our Lady of Loreto
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251211
+UID:/Canada/20251211/
+URL:http://universalis.com/Canada/20251211/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251211/today.htm
+SUMMARY:Thursday of the 2nd week of Advent,\n or Saint Damasus I, Pope
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251212
+UID:/Canada/20251212/
+URL:http://universalis.com/Canada/20251212/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251212/today.htm
+SUMMARY:Our Lady of Guadalupe
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251213
+UID:/Canada/20251213/
+URL:http://universalis.com/Canada/20251213/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251213/today.htm
+SUMMARY:Saint Lucy, Virgin, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251214
+UID:/Canada/20251214/
+URL:http://universalis.com/Canada/20251214/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251214/today.htm
+SUMMARY:3rd Sunday of Advent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251215
+UID:/Canada/20251215/
+URL:http://universalis.com/Canada/20251215/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251215/today.htm
+SUMMARY:Monday of the 3rd week of Advent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251216
+UID:/Canada/20251216/
+URL:http://universalis.com/Canada/20251216/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251216/today.htm
+SUMMARY:Tuesday of the 3rd week of Advent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251217
+UID:/Canada/20251217/
+URL:http://universalis.com/Canada/20251217/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251217/today.htm
+SUMMARY:17 December
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251218
+UID:/Canada/20251218/
+URL:http://universalis.com/Canada/20251218/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251218/today.htm
+SUMMARY:18 December
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251219
+UID:/Canada/20251219/
+URL:http://universalis.com/Canada/20251219/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251219/today.htm
+SUMMARY:19 December
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251220
+UID:/Canada/20251220/
+URL:http://universalis.com/Canada/20251220/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251220/today.htm
+SUMMARY:20 December
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251221
+UID:/Canada/20251221/
+URL:http://universalis.com/Canada/20251221/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251221/today.htm
+SUMMARY:4th Sunday of Advent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251222
+UID:/Canada/20251222/
+URL:http://universalis.com/Canada/20251222/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251222/today.htm
+SUMMARY:22 December
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251223
+UID:/Canada/20251223/
+URL:http://universalis.com/Canada/20251223/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251223/today.htm
+SUMMARY:23 December,\n (commemoration of Saint John of Kęty, Priest)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251224
+UID:/Canada/20251224/
+URL:http://universalis.com/Canada/20251224/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251224/today.htm
+SUMMARY:24 December
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251225
+UID:/Canada/20251225/
+URL:http://universalis.com/Canada/20251225/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251225/today.htm
+SUMMARY:Christmas Day
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251226
+UID:/Canada/20251226/
+URL:http://universalis.com/Canada/20251226/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251226/today.htm
+SUMMARY:Saint Stephen, the first Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251227
+UID:/Canada/20251227/
+URL:http://universalis.com/Canada/20251227/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251227/today.htm
+SUMMARY:Saint John, Apostle, Evangelist
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251228
+UID:/Canada/20251228/
+URL:http://universalis.com/Canada/20251228/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251228/today.htm
+SUMMARY:The Holy Family
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251229
+UID:/Canada/20251229/
+URL:http://universalis.com/Canada/20251229/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251229/today.htm
+SUMMARY:5th day within the octave of Christmas,\n (commemoration of Saint Thomas Becket, Bishop, Martyr)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251230
+UID:/Canada/20251230/
+URL:http://universalis.com/Canada/20251230/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251230/today.htm
+SUMMARY:6th day within the octave of Christmas
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20251231
+UID:/Canada/20251231/
+URL:http://universalis.com/Canada/20251231/today.htm
+DESCRIPTION:http://universalis.com/Canada/20251231/today.htm
+SUMMARY:7th day within the octave of Christmas,\n (commemoration of Saint Silvester I, Pope)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260101
+UID:/Canada/20260101/
+URL:http://universalis.com/Canada/20260101/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260101/today.htm
+SUMMARY:Mary, the Holy Mother of God
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260102
+UID:/Canada/20260102/
+URL:http://universalis.com/Canada/20260102/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260102/today.htm
+SUMMARY:Saints Basil the Great and Gregory Nazianzen, Bishops, Doctors
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260103
+UID:/Canada/20260103/
+URL:http://universalis.com/Canada/20260103/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260103/today.htm
+SUMMARY:3 January,\n or The Most Holy Name of Jesus
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260104
+UID:/Canada/20260104/
+URL:http://universalis.com/Canada/20260104/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260104/today.htm
+SUMMARY:The Epiphany of the Lord
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260105
+UID:/Canada/20260105/
+URL:http://universalis.com/Canada/20260105/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260105/today.htm
+SUMMARY:Monday after Epiphany Sunday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260106
+UID:/Canada/20260106/
+URL:http://universalis.com/Canada/20260106/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260106/today.htm
+SUMMARY:Tuesday after Epiphany Sunday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260107
+UID:/Canada/20260107/
+URL:http://universalis.com/Canada/20260107/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260107/today.htm
+SUMMARY:Saint André Bessette
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260108
+UID:/Canada/20260108/
+URL:http://universalis.com/Canada/20260108/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260108/today.htm
+SUMMARY:Thursday after Epiphany Sunday,\n or Saint Raymond of Penyafort, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260109
+UID:/Canada/20260109/
+URL:http://universalis.com/Canada/20260109/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260109/today.htm
+SUMMARY:Friday after Epiphany Sunday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260110
+UID:/Canada/20260110/
+URL:http://universalis.com/Canada/20260110/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260110/today.htm
+SUMMARY:Saturday after Epiphany Sunday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260111
+UID:/Canada/20260111/
+URL:http://universalis.com/Canada/20260111/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260111/today.htm
+SUMMARY:The Baptism of the Lord
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260112
+UID:/Canada/20260112/
+URL:http://universalis.com/Canada/20260112/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260112/today.htm
+SUMMARY:Saint Marguerite Bourgeoys, Religious Foundress
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260113
+UID:/Canada/20260113/
+URL:http://universalis.com/Canada/20260113/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260113/today.htm
+SUMMARY:Tuesday of week 1 in Ordinary Time,\n or Saint Hilary, Bishop, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260114
+UID:/Canada/20260114/
+URL:http://universalis.com/Canada/20260114/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260114/today.htm
+SUMMARY:Wednesday of week 1 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260115
+UID:/Canada/20260115/
+URL:http://universalis.com/Canada/20260115/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260115/today.htm
+SUMMARY:Thursday of week 1 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260116
+UID:/Canada/20260116/
+URL:http://universalis.com/Canada/20260116/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260116/today.htm
+SUMMARY:Friday of week 1 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260117
+UID:/Canada/20260117/
+URL:http://universalis.com/Canada/20260117/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260117/today.htm
+SUMMARY:Saint Antony, Abbot
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260118
+UID:/Canada/20260118/
+URL:http://universalis.com/Canada/20260118/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260118/today.htm
+SUMMARY:2nd Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260119
+UID:/Canada/20260119/
+URL:http://universalis.com/Canada/20260119/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260119/today.htm
+SUMMARY:Monday of week 2 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260120
+UID:/Canada/20260120/
+URL:http://universalis.com/Canada/20260120/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260120/today.htm
+SUMMARY:Tuesday of week 2 in Ordinary Time,\n or Saint Fabian, Pope, Martyr,\n or Saint Sebastian, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260121
+UID:/Canada/20260121/
+URL:http://universalis.com/Canada/20260121/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260121/today.htm
+SUMMARY:Saint Agnes, Virgin, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260122
+UID:/Canada/20260122/
+URL:http://universalis.com/Canada/20260122/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260122/today.htm
+SUMMARY:Thursday of week 2 in Ordinary Time,\n or Saint Vincent, Deacon, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260123
+UID:/Canada/20260123/
+URL:http://universalis.com/Canada/20260123/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260123/today.htm
+SUMMARY:Friday of week 2 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260124
+UID:/Canada/20260124/
+URL:http://universalis.com/Canada/20260124/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260124/today.htm
+SUMMARY:Saint Francis de Sales, Bishop, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260125
+UID:/Canada/20260125/
+URL:http://universalis.com/Canada/20260125/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260125/today.htm
+SUMMARY:3rd Sunday in Ordinary Time (Sunday of the Word of God)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260126
+UID:/Canada/20260126/
+URL:http://universalis.com/Canada/20260126/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260126/today.htm
+SUMMARY:Saints Timothy and Titus, Bishops
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260127
+UID:/Canada/20260127/
+URL:http://universalis.com/Canada/20260127/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260127/today.htm
+SUMMARY:Tuesday of week 3 in Ordinary Time,\n or Saint Angela Merici, Virgin
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260128
+UID:/Canada/20260128/
+URL:http://universalis.com/Canada/20260128/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260128/today.htm
+SUMMARY:Saint Thomas Aquinas, Priest, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260129
+UID:/Canada/20260129/
+URL:http://universalis.com/Canada/20260129/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260129/today.htm
+SUMMARY:Thursday of week 3 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260130
+UID:/Canada/20260130/
+URL:http://universalis.com/Canada/20260130/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260130/today.htm
+SUMMARY:Friday of week 3 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260131
+UID:/Canada/20260131/
+URL:http://universalis.com/Canada/20260131/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260131/today.htm
+SUMMARY:Saint John Bosco, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260201
+UID:/Canada/20260201/
+URL:http://universalis.com/Canada/20260201/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260201/today.htm
+SUMMARY:4th Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260202
+UID:/Canada/20260202/
+URL:http://universalis.com/Canada/20260202/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260202/today.htm
+SUMMARY:The Presentation of the Lord
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260203
+UID:/Canada/20260203/
+URL:http://universalis.com/Canada/20260203/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260203/today.htm
+SUMMARY:Tuesday of week 4 in Ordinary Time,\n or Saint Ansgar (Oscar), Bishop,\n or Saint Blaise, Bishop, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260204
+UID:/Canada/20260204/
+URL:http://universalis.com/Canada/20260204/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260204/today.htm
+SUMMARY:Wednesday of week 4 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260205
+UID:/Canada/20260205/
+URL:http://universalis.com/Canada/20260205/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260205/today.htm
+SUMMARY:Saint Agatha, Virgin, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260206
+UID:/Canada/20260206/
+URL:http://universalis.com/Canada/20260206/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260206/today.htm
+SUMMARY:Saints Paul Miki and his Companions, Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260207
+UID:/Canada/20260207/
+URL:http://universalis.com/Canada/20260207/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260207/today.htm
+SUMMARY:Saturday of week 4 in Ordinary Time,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260208
+UID:/Canada/20260208/
+URL:http://universalis.com/Canada/20260208/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260208/today.htm
+SUMMARY:5th Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260209
+UID:/Canada/20260209/
+URL:http://universalis.com/Canada/20260209/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260209/today.htm
+SUMMARY:Monday of week 5 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260210
+UID:/Canada/20260210/
+URL:http://universalis.com/Canada/20260210/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260210/today.htm
+SUMMARY:Saint Scholastica, Virgin
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260211
+UID:/Canada/20260211/
+URL:http://universalis.com/Canada/20260211/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260211/today.htm
+SUMMARY:Wednesday of week 5 in Ordinary Time,\n or Our Lady of Lourdes
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260212
+UID:/Canada/20260212/
+URL:http://universalis.com/Canada/20260212/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260212/today.htm
+SUMMARY:Thursday of week 5 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260213
+UID:/Canada/20260213/
+URL:http://universalis.com/Canada/20260213/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260213/today.htm
+SUMMARY:Friday of week 5 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260214
+UID:/Canada/20260214/
+URL:http://universalis.com/Canada/20260214/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260214/today.htm
+SUMMARY:Saints Cyril, monk, and Methodius, Bishop
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260215
+UID:/Canada/20260215/
+URL:http://universalis.com/Canada/20260215/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260215/today.htm
+SUMMARY:6th Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260216
+UID:/Canada/20260216/
+URL:http://universalis.com/Canada/20260216/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260216/today.htm
+SUMMARY:Monday of week 6 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260217
+UID:/Canada/20260217/
+URL:http://universalis.com/Canada/20260217/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260217/today.htm
+SUMMARY:Tuesday of week 6 in Ordinary Time,\n or The Seven Holy Founders of the Servite Order
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260218
+UID:/Canada/20260218/
+URL:http://universalis.com/Canada/20260218/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260218/today.htm
+SUMMARY:Ash Wednesday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260219
+UID:/Canada/20260219/
+URL:http://universalis.com/Canada/20260219/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260219/today.htm
+SUMMARY:Thursday after Ash Wednesday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260220
+UID:/Canada/20260220/
+URL:http://universalis.com/Canada/20260220/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260220/today.htm
+SUMMARY:Friday after Ash Wednesday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260221
+UID:/Canada/20260221/
+URL:http://universalis.com/Canada/20260221/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260221/today.htm
+SUMMARY:Saturday after Ash Wednesday,\n (commemoration of Saint Peter Damian, Bishop, Doctor)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260222
+UID:/Canada/20260222/
+URL:http://universalis.com/Canada/20260222/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260222/today.htm
+SUMMARY:1st Sunday of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260223
+UID:/Canada/20260223/
+URL:http://universalis.com/Canada/20260223/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260223/today.htm
+SUMMARY:Monday of the 1st week of Lent,\n (commemoration of Saint Polycarp, Bishop, Martyr)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260224
+UID:/Canada/20260224/
+URL:http://universalis.com/Canada/20260224/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260224/today.htm
+SUMMARY:Tuesday of the 1st week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260225
+UID:/Canada/20260225/
+URL:http://universalis.com/Canada/20260225/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260225/today.htm
+SUMMARY:Wednesday of the 1st week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260226
+UID:/Canada/20260226/
+URL:http://universalis.com/Canada/20260226/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260226/today.htm
+SUMMARY:Thursday of the 1st week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260227
+UID:/Canada/20260227/
+URL:http://universalis.com/Canada/20260227/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260227/today.htm
+SUMMARY:Friday of the 1st week of Lent,\n (commemoration of Saint Gregory of Narek, Abbot and Doctor of the Church)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260228
+UID:/Canada/20260228/
+URL:http://universalis.com/Canada/20260228/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260228/today.htm
+SUMMARY:Saturday of the 1st week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260301
+UID:/Canada/20260301/
+URL:http://universalis.com/Canada/20260301/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260301/today.htm
+SUMMARY:2nd Sunday of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260302
+UID:/Canada/20260302/
+URL:http://universalis.com/Canada/20260302/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260302/today.htm
+SUMMARY:Monday of the 2nd week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260303
+UID:/Canada/20260303/
+URL:http://universalis.com/Canada/20260303/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260303/today.htm
+SUMMARY:Tuesday of the 2nd week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260304
+UID:/Canada/20260304/
+URL:http://universalis.com/Canada/20260304/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260304/today.htm
+SUMMARY:Wednesday of the 2nd week of Lent,\n (commemoration of Saint Casimir)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260305
+UID:/Canada/20260305/
+URL:http://universalis.com/Canada/20260305/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260305/today.htm
+SUMMARY:Thursday of the 2nd week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260306
+UID:/Canada/20260306/
+URL:http://universalis.com/Canada/20260306/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260306/today.htm
+SUMMARY:Friday of the 2nd week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260307
+UID:/Canada/20260307/
+URL:http://universalis.com/Canada/20260307/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260307/today.htm
+SUMMARY:Saturday of the 2nd week of Lent,\n (commemoration of Saints Perpetua and Felicity, Martyrs)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260308
+UID:/Canada/20260308/
+URL:http://universalis.com/Canada/20260308/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260308/today.htm
+SUMMARY:3rd Sunday of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260309
+UID:/Canada/20260309/
+URL:http://universalis.com/Canada/20260309/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260309/today.htm
+SUMMARY:Monday of the 3rd week of Lent,\n (commemoration of Saint Frances of Rome, Religious)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260310
+UID:/Canada/20260310/
+URL:http://universalis.com/Canada/20260310/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260310/today.htm
+SUMMARY:Tuesday of the 3rd week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260311
+UID:/Canada/20260311/
+URL:http://universalis.com/Canada/20260311/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260311/today.htm
+SUMMARY:Wednesday of the 3rd week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260312
+UID:/Canada/20260312/
+URL:http://universalis.com/Canada/20260312/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260312/today.htm
+SUMMARY:Thursday of the 3rd week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260313
+UID:/Canada/20260313/
+URL:http://universalis.com/Canada/20260313/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260313/today.htm
+SUMMARY:Friday of the 3rd week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260314
+UID:/Canada/20260314/
+URL:http://universalis.com/Canada/20260314/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260314/today.htm
+SUMMARY:Saturday of the 3rd week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260315
+UID:/Canada/20260315/
+URL:http://universalis.com/Canada/20260315/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260315/today.htm
+SUMMARY:4th Sunday of Lent (Laetare Sunday)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260316
+UID:/Canada/20260316/
+URL:http://universalis.com/Canada/20260316/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260316/today.htm
+SUMMARY:Monday of the 4th week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260317
+UID:/Canada/20260317/
+URL:http://universalis.com/Canada/20260317/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260317/today.htm
+SUMMARY:Tuesday of the 4th week of Lent,\n (commemoration of Saint Patrick, Bishop, Missionary)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260318
+UID:/Canada/20260318/
+URL:http://universalis.com/Canada/20260318/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260318/today.htm
+SUMMARY:Wednesday of the 4th week of Lent,\n (commemoration of Saint Cyril of Jerusalem, Bishop, Doctor)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260319
+UID:/Canada/20260319/
+URL:http://universalis.com/Canada/20260319/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260319/today.htm
+SUMMARY:Saint Joseph, husband of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260320
+UID:/Canada/20260320/
+URL:http://universalis.com/Canada/20260320/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260320/today.htm
+SUMMARY:Friday of the 4th week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260321
+UID:/Canada/20260321/
+URL:http://universalis.com/Canada/20260321/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260321/today.htm
+SUMMARY:Saturday of the 4th week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260322
+UID:/Canada/20260322/
+URL:http://universalis.com/Canada/20260322/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260322/today.htm
+SUMMARY:5th Sunday of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260323
+UID:/Canada/20260323/
+URL:http://universalis.com/Canada/20260323/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260323/today.htm
+SUMMARY:Monday of the 5th week of Lent,\n (commemoration of Saint Turibius of Mongrovejo, Bishop)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260324
+UID:/Canada/20260324/
+URL:http://universalis.com/Canada/20260324/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260324/today.htm
+SUMMARY:Tuesday of the 5th week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260325
+UID:/Canada/20260325/
+URL:http://universalis.com/Canada/20260325/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260325/today.htm
+SUMMARY:The Annunciation of the Lord
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260326
+UID:/Canada/20260326/
+URL:http://universalis.com/Canada/20260326/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260326/today.htm
+SUMMARY:Thursday of the 5th week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260327
+UID:/Canada/20260327/
+URL:http://universalis.com/Canada/20260327/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260327/today.htm
+SUMMARY:Friday of the 5th week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260328
+UID:/Canada/20260328/
+URL:http://universalis.com/Canada/20260328/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260328/today.htm
+SUMMARY:Saturday of the 5th week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260329
+UID:/Canada/20260329/
+URL:http://universalis.com/Canada/20260329/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260329/today.htm
+SUMMARY:Palm Sunday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260330
+UID:/Canada/20260330/
+URL:http://universalis.com/Canada/20260330/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260330/today.htm
+SUMMARY:Monday of Holy Week
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260331
+UID:/Canada/20260331/
+URL:http://universalis.com/Canada/20260331/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260331/today.htm
+SUMMARY:Tuesday of Holy Week
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260401
+UID:/Canada/20260401/
+URL:http://universalis.com/Canada/20260401/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260401/today.htm
+SUMMARY:Wednesday of Holy Week
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260402
+UID:/Canada/20260402/
+URL:http://universalis.com/Canada/20260402/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260402/today.htm
+SUMMARY:Maundy Thursday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260403
+UID:/Canada/20260403/
+URL:http://universalis.com/Canada/20260403/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260403/today.htm
+SUMMARY:Good Friday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260404
+UID:/Canada/20260404/
+URL:http://universalis.com/Canada/20260404/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260404/today.htm
+SUMMARY:Holy Saturday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260405
+UID:/Canada/20260405/
+URL:http://universalis.com/Canada/20260405/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260405/today.htm
+SUMMARY:Easter Sunday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260406
+UID:/Canada/20260406/
+URL:http://universalis.com/Canada/20260406/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260406/today.htm
+SUMMARY:Easter Monday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260407
+UID:/Canada/20260407/
+URL:http://universalis.com/Canada/20260407/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260407/today.htm
+SUMMARY:Easter Tuesday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260408
+UID:/Canada/20260408/
+URL:http://universalis.com/Canada/20260408/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260408/today.htm
+SUMMARY:Easter Wednesday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260409
+UID:/Canada/20260409/
+URL:http://universalis.com/Canada/20260409/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260409/today.htm
+SUMMARY:Easter Thursday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260410
+UID:/Canada/20260410/
+URL:http://universalis.com/Canada/20260410/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260410/today.htm
+SUMMARY:Easter Friday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260411
+UID:/Canada/20260411/
+URL:http://universalis.com/Canada/20260411/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260411/today.htm
+SUMMARY:Easter Saturday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260412
+UID:/Canada/20260412/
+URL:http://universalis.com/Canada/20260412/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260412/today.htm
+SUMMARY:Divine Mercy Sunday (2nd Sunday of Easter)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260413
+UID:/Canada/20260413/
+URL:http://universalis.com/Canada/20260413/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260413/today.htm
+SUMMARY:Monday of the 2nd week of Eastertide,\n or Saint Martin I, Pope, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260414
+UID:/Canada/20260414/
+URL:http://universalis.com/Canada/20260414/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260414/today.htm
+SUMMARY:Tuesday of the 2nd week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260415
+UID:/Canada/20260415/
+URL:http://universalis.com/Canada/20260415/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260415/today.htm
+SUMMARY:Wednesday of the 2nd week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260416
+UID:/Canada/20260416/
+URL:http://universalis.com/Canada/20260416/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260416/today.htm
+SUMMARY:Thursday of the 2nd week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260417
+UID:/Canada/20260417/
+URL:http://universalis.com/Canada/20260417/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260417/today.htm
+SUMMARY:Friday of the 2nd week of Eastertide,\n or Saint Kateri Tekakwitha
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260418
+UID:/Canada/20260418/
+URL:http://universalis.com/Canada/20260418/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260418/today.htm
+SUMMARY:Saturday of the 2nd week of Eastertide,\n or Blessed Marie-Anne Blondin, Virgin
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260419
+UID:/Canada/20260419/
+URL:http://universalis.com/Canada/20260419/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260419/today.htm
+SUMMARY:3rd Sunday of Easter
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260420
+UID:/Canada/20260420/
+URL:http://universalis.com/Canada/20260420/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260420/today.htm
+SUMMARY:Monday of the 3rd week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260421
+UID:/Canada/20260421/
+URL:http://universalis.com/Canada/20260421/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260421/today.htm
+SUMMARY:Tuesday of the 3rd week of Eastertide,\n or Saint Anselm of Canterbury, Bishop, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260422
+UID:/Canada/20260422/
+URL:http://universalis.com/Canada/20260422/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260422/today.htm
+SUMMARY:Wednesday of the 3rd week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260423
+UID:/Canada/20260423/
+URL:http://universalis.com/Canada/20260423/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260423/today.htm
+SUMMARY:Thursday of the 3rd week of Eastertide,\n or Saint George, Martyr,\n or Saint Adalbert of Prague, Bishop, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260424
+UID:/Canada/20260424/
+URL:http://universalis.com/Canada/20260424/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260424/today.htm
+SUMMARY:Friday of the 3rd week of Eastertide,\n or Saint Fidelis of Sigmaringen, Priest, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260425
+UID:/Canada/20260425/
+URL:http://universalis.com/Canada/20260425/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260425/today.htm
+SUMMARY:Saint Mark, Evangelist
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260426
+UID:/Canada/20260426/
+URL:http://universalis.com/Canada/20260426/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260426/today.htm
+SUMMARY:4th Sunday of Easter
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260427
+UID:/Canada/20260427/
+URL:http://universalis.com/Canada/20260427/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260427/today.htm
+SUMMARY:Monday of the 4th week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260428
+UID:/Canada/20260428/
+URL:http://universalis.com/Canada/20260428/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260428/today.htm
+SUMMARY:Tuesday of the 4th week of Eastertide,\n or Saint Peter Chanel, Priest, Martyr,\n or Saint Louis Marie Grignion de Montfort, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260429
+UID:/Canada/20260429/
+URL:http://universalis.com/Canada/20260429/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260429/today.htm
+SUMMARY:Saint Catherine of Siena, Virgin, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260430
+UID:/Canada/20260430/
+URL:http://universalis.com/Canada/20260430/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260430/today.htm
+SUMMARY:Thursday of the 4th week of Eastertide,\n or Saint Pius V, Pope,\n or Saint Marie of the Incarnation
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260501
+UID:/Canada/20260501/
+URL:http://universalis.com/Canada/20260501/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260501/today.htm
+SUMMARY:Friday of the 4th week of Eastertide,\n or Saint Joseph the Worker
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260502
+UID:/Canada/20260502/
+URL:http://universalis.com/Canada/20260502/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260502/today.htm
+SUMMARY:Saint Athanasius, Bishop, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260503
+UID:/Canada/20260503/
+URL:http://universalis.com/Canada/20260503/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260503/today.htm
+SUMMARY:5th Sunday of Easter
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260504
+UID:/Canada/20260504/
+URL:http://universalis.com/Canada/20260504/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260504/today.htm
+SUMMARY:Monday of the 5th week of Eastertide,\n or Blessed Marie-Léonie Paradis
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260505
+UID:/Canada/20260505/
+URL:http://universalis.com/Canada/20260505/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260505/today.htm
+SUMMARY:Tuesday of the 5th week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260506
+UID:/Canada/20260506/
+URL:http://universalis.com/Canada/20260506/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260506/today.htm
+SUMMARY:Wednesday of the 5th week of Eastertide,\n or Saint François de Laval, Bishop
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260507
+UID:/Canada/20260507/
+URL:http://universalis.com/Canada/20260507/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260507/today.htm
+SUMMARY:Thursday of the 5th week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260508
+UID:/Canada/20260508/
+URL:http://universalis.com/Canada/20260508/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260508/today.htm
+SUMMARY:Friday of the 5th week of Eastertide,\n or Blessed Catherine of Saint Augustine
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260509
+UID:/Canada/20260509/
+URL:http://universalis.com/Canada/20260509/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260509/today.htm
+SUMMARY:Saturday of the 5th week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260510
+UID:/Canada/20260510/
+URL:http://universalis.com/Canada/20260510/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260510/today.htm
+SUMMARY:6th Sunday of Easter
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260511
+UID:/Canada/20260511/
+URL:http://universalis.com/Canada/20260511/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260511/today.htm
+SUMMARY:Monday of the 6th week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260512
+UID:/Canada/20260512/
+URL:http://universalis.com/Canada/20260512/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260512/today.htm
+SUMMARY:Tuesday of the 6th week of Eastertide,\n or Saints Nereus and Achilleus, Martyrs,\n or Saint Pancras, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260513
+UID:/Canada/20260513/
+URL:http://universalis.com/Canada/20260513/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260513/today.htm
+SUMMARY:Wednesday of the 6th week of Eastertide,\n or Our Lady of Fátima
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260514
+UID:/Canada/20260514/
+URL:http://universalis.com/Canada/20260514/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260514/today.htm
+SUMMARY:Saint Matthias, Apostle
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260515
+UID:/Canada/20260515/
+URL:http://universalis.com/Canada/20260515/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260515/today.htm
+SUMMARY:Friday before Ascension Sunday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260516
+UID:/Canada/20260516/
+URL:http://universalis.com/Canada/20260516/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260516/today.htm
+SUMMARY:Saturday before Ascension Sunday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260517
+UID:/Canada/20260517/
+URL:http://universalis.com/Canada/20260517/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260517/today.htm
+SUMMARY:The Ascension of the Lord
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260518
+UID:/Canada/20260518/
+URL:http://universalis.com/Canada/20260518/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260518/today.htm
+SUMMARY:Monday of the 7th week of Eastertide,\n or Saint John I, Pope, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260519
+UID:/Canada/20260519/
+URL:http://universalis.com/Canada/20260519/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260519/today.htm
+SUMMARY:Tuesday of the 7th week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260520
+UID:/Canada/20260520/
+URL:http://universalis.com/Canada/20260520/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260520/today.htm
+SUMMARY:Wednesday of the 7th week of Eastertide,\n or Saint Bernardine of Siena, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260521
+UID:/Canada/20260521/
+URL:http://universalis.com/Canada/20260521/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260521/today.htm
+SUMMARY:Thursday of the 7th week of Eastertide,\n or Saint Christopher Magallanes and his Companions, Martyrs,\n or Saint Eugène de Mazenod, Bishop
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260522
+UID:/Canada/20260522/
+URL:http://universalis.com/Canada/20260522/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260522/today.htm
+SUMMARY:Friday of the 7th week of Eastertide,\n or Saint Rita of Cascia
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260523
+UID:/Canada/20260523/
+URL:http://universalis.com/Canada/20260523/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260523/today.htm
+SUMMARY:Saturday of the 7th week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260524
+UID:/Canada/20260524/
+URL:http://universalis.com/Canada/20260524/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260524/today.htm
+SUMMARY:Pentecost
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260525
+UID:/Canada/20260525/
+URL:http://universalis.com/Canada/20260525/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260525/today.htm
+SUMMARY:Mary, Mother of the Church
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260526
+UID:/Canada/20260526/
+URL:http://universalis.com/Canada/20260526/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260526/today.htm
+SUMMARY:Saint Philip Neri, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260527
+UID:/Canada/20260527/
+URL:http://universalis.com/Canada/20260527/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260527/today.htm
+SUMMARY:Wednesday of week 8 in Ordinary Time,\n or Saint Augustine of Canterbury, Bishop
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260528
+UID:/Canada/20260528/
+URL:http://universalis.com/Canada/20260528/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260528/today.htm
+SUMMARY:Thursday of week 8 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260529
+UID:/Canada/20260529/
+URL:http://universalis.com/Canada/20260529/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260529/today.htm
+SUMMARY:Friday of week 8 in Ordinary Time,\n or Saint Paul VI, Pope
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260530
+UID:/Canada/20260530/
+URL:http://universalis.com/Canada/20260530/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260530/today.htm
+SUMMARY:Saturday of week 8 in Ordinary Time,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260531
+UID:/Canada/20260531/
+URL:http://universalis.com/Canada/20260531/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260531/today.htm
+SUMMARY:The Most Holy Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260601
+UID:/Canada/20260601/
+URL:http://universalis.com/Canada/20260601/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260601/today.htm
+SUMMARY:Saint Justin, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260602
+UID:/Canada/20260602/
+URL:http://universalis.com/Canada/20260602/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260602/today.htm
+SUMMARY:Tuesday of week 9 in Ordinary Time,\n or Saints Marcellinus and Peter, Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260603
+UID:/Canada/20260603/
+URL:http://universalis.com/Canada/20260603/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260603/today.htm
+SUMMARY:Saints Charles Lwanga and his Companions, Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260604
+UID:/Canada/20260604/
+URL:http://universalis.com/Canada/20260604/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260604/today.htm
+SUMMARY:Thursday of week 9 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260605
+UID:/Canada/20260605/
+URL:http://universalis.com/Canada/20260605/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260605/today.htm
+SUMMARY:Saint Boniface, Bishop, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260606
+UID:/Canada/20260606/
+URL:http://universalis.com/Canada/20260606/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260606/today.htm
+SUMMARY:Saturday of week 9 in Ordinary Time,\n or Saint Norbert, Bishop,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260607
+UID:/Canada/20260607/
+URL:http://universalis.com/Canada/20260607/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260607/today.htm
+SUMMARY:The Most Holy Body and Blood of Christ
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260608
+UID:/Canada/20260608/
+URL:http://universalis.com/Canada/20260608/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260608/today.htm
+SUMMARY:Monday of week 10 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260609
+UID:/Canada/20260609/
+URL:http://universalis.com/Canada/20260609/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260609/today.htm
+SUMMARY:Tuesday of week 10 in Ordinary Time,\n or Saint Ephraem, Deacon, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260610
+UID:/Canada/20260610/
+URL:http://universalis.com/Canada/20260610/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260610/today.htm
+SUMMARY:Wednesday of week 10 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260611
+UID:/Canada/20260611/
+URL:http://universalis.com/Canada/20260611/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260611/today.htm
+SUMMARY:Saint Barnabas, Apostle
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260612
+UID:/Canada/20260612/
+URL:http://universalis.com/Canada/20260612/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260612/today.htm
+SUMMARY:The Most Sacred Heart of Jesus
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260613
+UID:/Canada/20260613/
+URL:http://universalis.com/Canada/20260613/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260613/today.htm
+SUMMARY:Saint Antony of Padua, Priest, Doctor,\n or The Immaculate Heart of Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260614
+UID:/Canada/20260614/
+URL:http://universalis.com/Canada/20260614/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260614/today.htm
+SUMMARY:11th Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260615
+UID:/Canada/20260615/
+URL:http://universalis.com/Canada/20260615/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260615/today.htm
+SUMMARY:Monday of week 11 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260616
+UID:/Canada/20260616/
+URL:http://universalis.com/Canada/20260616/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260616/today.htm
+SUMMARY:Tuesday of week 11 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260617
+UID:/Canada/20260617/
+URL:http://universalis.com/Canada/20260617/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260617/today.htm
+SUMMARY:Wednesday of week 11 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260618
+UID:/Canada/20260618/
+URL:http://universalis.com/Canada/20260618/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260618/today.htm
+SUMMARY:Thursday of week 11 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260619
+UID:/Canada/20260619/
+URL:http://universalis.com/Canada/20260619/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260619/today.htm
+SUMMARY:Friday of week 11 in Ordinary Time,\n or Saint Romuald, Abbot
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260620
+UID:/Canada/20260620/
+URL:http://universalis.com/Canada/20260620/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260620/today.htm
+SUMMARY:Saturday of week 11 in Ordinary Time,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260621
+UID:/Canada/20260621/
+URL:http://universalis.com/Canada/20260621/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260621/today.htm
+SUMMARY:12th Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260622
+UID:/Canada/20260622/
+URL:http://universalis.com/Canada/20260622/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260622/today.htm
+SUMMARY:Monday of week 12 in Ordinary Time,\n or Saints John Fisher, Bishop, and Thomas More, Martyrs,\n or Saint Paulinus of Nola, Bishop
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260623
+UID:/Canada/20260623/
+URL:http://universalis.com/Canada/20260623/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260623/today.htm
+SUMMARY:Tuesday of week 12 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260624
+UID:/Canada/20260624/
+URL:http://universalis.com/Canada/20260624/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260624/today.htm
+SUMMARY:The Nativity of Saint John the Baptist
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260625
+UID:/Canada/20260625/
+URL:http://universalis.com/Canada/20260625/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260625/today.htm
+SUMMARY:Thursday of week 12 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260626
+UID:/Canada/20260626/
+URL:http://universalis.com/Canada/20260626/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260626/today.htm
+SUMMARY:Friday of week 12 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260627
+UID:/Canada/20260627/
+URL:http://universalis.com/Canada/20260627/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260627/today.htm
+SUMMARY:Saturday of week 12 in Ordinary Time,\n or Saint Cyril of Alexandria, Bishop, Doctor,\n or Blessed Nykyta Budka, Bishop, Martyr,\n or Blessed Vasyl Velychkovsky, Bishop,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260628
+UID:/Canada/20260628/
+URL:http://universalis.com/Canada/20260628/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260628/today.htm
+SUMMARY:13th Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260629
+UID:/Canada/20260629/
+URL:http://universalis.com/Canada/20260629/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260629/today.htm
+SUMMARY:Saints Peter and Paul, Apostles
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260630
+UID:/Canada/20260630/
+URL:http://universalis.com/Canada/20260630/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260630/today.htm
+SUMMARY:Tuesday of week 13 in Ordinary Time,\n or The First Martyrs of the See of Rome
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260701
+UID:/Canada/20260701/
+URL:http://universalis.com/Canada/20260701/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260701/today.htm
+SUMMARY:Wednesday of week 13 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260702
+UID:/Canada/20260702/
+URL:http://universalis.com/Canada/20260702/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260702/today.htm
+SUMMARY:Thursday of week 13 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260703
+UID:/Canada/20260703/
+URL:http://universalis.com/Canada/20260703/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260703/today.htm
+SUMMARY:Saint Thomas, Apostle
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260704
+UID:/Canada/20260704/
+URL:http://universalis.com/Canada/20260704/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260704/today.htm
+SUMMARY:Saturday of week 13 in Ordinary Time,\n or Saint Elizabeth of Portugal,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260705
+UID:/Canada/20260705/
+URL:http://universalis.com/Canada/20260705/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260705/today.htm
+SUMMARY:14th Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260706
+UID:/Canada/20260706/
+URL:http://universalis.com/Canada/20260706/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260706/today.htm
+SUMMARY:Monday of week 14 in Ordinary Time,\n or Saint Maria Goretti, Virgin, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260707
+UID:/Canada/20260707/
+URL:http://universalis.com/Canada/20260707/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260707/today.htm
+SUMMARY:Tuesday of week 14 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260708
+UID:/Canada/20260708/
+URL:http://universalis.com/Canada/20260708/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260708/today.htm
+SUMMARY:Wednesday of week 14 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260709
+UID:/Canada/20260709/
+URL:http://universalis.com/Canada/20260709/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260709/today.htm
+SUMMARY:Thursday of week 14 in Ordinary Time,\n or Saint Augustine Zhao Rong and his Companions, Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260710
+UID:/Canada/20260710/
+URL:http://universalis.com/Canada/20260710/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260710/today.htm
+SUMMARY:Friday of week 14 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260711
+UID:/Canada/20260711/
+URL:http://universalis.com/Canada/20260711/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260711/today.htm
+SUMMARY:Saint Benedict, Abbot
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260712
+UID:/Canada/20260712/
+URL:http://universalis.com/Canada/20260712/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260712/today.htm
+SUMMARY:15th Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260713
+UID:/Canada/20260713/
+URL:http://universalis.com/Canada/20260713/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260713/today.htm
+SUMMARY:Monday of week 15 in Ordinary Time,\n or Saint Henry
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260714
+UID:/Canada/20260714/
+URL:http://universalis.com/Canada/20260714/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260714/today.htm
+SUMMARY:Tuesday of week 15 in Ordinary Time,\n or Saint Camillus of Lellis, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260715
+UID:/Canada/20260715/
+URL:http://universalis.com/Canada/20260715/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260715/today.htm
+SUMMARY:Saint Bonaventure, Bishop, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260716
+UID:/Canada/20260716/
+URL:http://universalis.com/Canada/20260716/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260716/today.htm
+SUMMARY:Thursday of week 15 in Ordinary Time,\n or Our Lady of Mount Carmel
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260717
+UID:/Canada/20260717/
+URL:http://universalis.com/Canada/20260717/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260717/today.htm
+SUMMARY:Friday of week 15 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260718
+UID:/Canada/20260718/
+URL:http://universalis.com/Canada/20260718/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260718/today.htm
+SUMMARY:Saturday of week 15 in Ordinary Time,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260719
+UID:/Canada/20260719/
+URL:http://universalis.com/Canada/20260719/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260719/today.htm
+SUMMARY:16th Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260720
+UID:/Canada/20260720/
+URL:http://universalis.com/Canada/20260720/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260720/today.htm
+SUMMARY:Monday of week 16 in Ordinary Time,\n or Saint Apollinaris, Bishop, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260721
+UID:/Canada/20260721/
+URL:http://universalis.com/Canada/20260721/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260721/today.htm
+SUMMARY:Tuesday of week 16 in Ordinary Time,\n or Saint Laurence of Brindisi, Priest, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260722
+UID:/Canada/20260722/
+URL:http://universalis.com/Canada/20260722/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260722/today.htm
+SUMMARY:Saint Mary Magdalen
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260723
+UID:/Canada/20260723/
+URL:http://universalis.com/Canada/20260723/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260723/today.htm
+SUMMARY:Thursday of week 16 in Ordinary Time,\n or Saint Bridget of Sweden, Religious
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260724
+UID:/Canada/20260724/
+URL:http://universalis.com/Canada/20260724/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260724/today.htm
+SUMMARY:Friday of week 16 in Ordinary Time,\n or Saint Charbel Makhlouf, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260725
+UID:/Canada/20260725/
+URL:http://universalis.com/Canada/20260725/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260725/today.htm
+SUMMARY:Saint James, Apostle
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260726
+UID:/Canada/20260726/
+URL:http://universalis.com/Canada/20260726/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260726/today.htm
+SUMMARY:17th Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260727
+UID:/Canada/20260727/
+URL:http://universalis.com/Canada/20260727/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260727/today.htm
+SUMMARY:Monday of week 17 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260728
+UID:/Canada/20260728/
+URL:http://universalis.com/Canada/20260728/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260728/today.htm
+SUMMARY:Tuesday of week 17 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260729
+UID:/Canada/20260729/
+URL:http://universalis.com/Canada/20260729/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260729/today.htm
+SUMMARY:Saints Martha, Mary and Lazarus
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260730
+UID:/Canada/20260730/
+URL:http://universalis.com/Canada/20260730/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260730/today.htm
+SUMMARY:Thursday of week 17 in Ordinary Time,\n or Saint Peter Chrysologus, Bishop, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260731
+UID:/Canada/20260731/
+URL:http://universalis.com/Canada/20260731/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260731/today.htm
+SUMMARY:Saint Ignatius Loyola, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260801
+UID:/Canada/20260801/
+URL:http://universalis.com/Canada/20260801/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260801/today.htm
+SUMMARY:Saint Alphonsus Mary de' Liguori, Bishop, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260802
+UID:/Canada/20260802/
+URL:http://universalis.com/Canada/20260802/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260802/today.htm
+SUMMARY:18th Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260803
+UID:/Canada/20260803/
+URL:http://universalis.com/Canada/20260803/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260803/today.htm
+SUMMARY:Monday of week 18 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260804
+UID:/Canada/20260804/
+URL:http://universalis.com/Canada/20260804/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260804/today.htm
+SUMMARY:Saint John Mary Vianney, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260805
+UID:/Canada/20260805/
+URL:http://universalis.com/Canada/20260805/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260805/today.htm
+SUMMARY:Wednesday of week 18 in Ordinary Time,\n or Dedication of the Basilica of Saint Mary Major,\n or Blessed Frédéric Janssoone, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260806
+UID:/Canada/20260806/
+URL:http://universalis.com/Canada/20260806/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260806/today.htm
+SUMMARY:The Transfiguration of the Lord
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260807
+UID:/Canada/20260807/
+URL:http://universalis.com/Canada/20260807/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260807/today.htm
+SUMMARY:Friday of week 18 in Ordinary Time,\n or Saints Sixtus II, Pope, and his Companions, Martyrs,\n or Saint Cajetan, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260808
+UID:/Canada/20260808/
+URL:http://universalis.com/Canada/20260808/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260808/today.htm
+SUMMARY:Saint Dominic, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260809
+UID:/Canada/20260809/
+URL:http://universalis.com/Canada/20260809/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260809/today.htm
+SUMMARY:19th Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260810
+UID:/Canada/20260810/
+URL:http://universalis.com/Canada/20260810/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260810/today.htm
+SUMMARY:Saint Laurence, Deacon, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260811
+UID:/Canada/20260811/
+URL:http://universalis.com/Canada/20260811/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260811/today.htm
+SUMMARY:Saint Clare, Virgin
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260812
+UID:/Canada/20260812/
+URL:http://universalis.com/Canada/20260812/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260812/today.htm
+SUMMARY:Wednesday of week 19 in Ordinary Time,\n or Saint Jane Frances de Chantal, Religious
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260813
+UID:/Canada/20260813/
+URL:http://universalis.com/Canada/20260813/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260813/today.htm
+SUMMARY:Thursday of week 19 in Ordinary Time,\n or Saints Pontian, Pope, and Hippolytus, Priest, Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260814
+UID:/Canada/20260814/
+URL:http://universalis.com/Canada/20260814/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260814/today.htm
+SUMMARY:Saint Maximilian Kolbe, Priest, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260815
+UID:/Canada/20260815/
+URL:http://universalis.com/Canada/20260815/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260815/today.htm
+SUMMARY:The Assumption of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260816
+UID:/Canada/20260816/
+URL:http://universalis.com/Canada/20260816/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260816/today.htm
+SUMMARY:20th Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260817
+UID:/Canada/20260817/
+URL:http://universalis.com/Canada/20260817/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260817/today.htm
+SUMMARY:Monday of week 20 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260818
+UID:/Canada/20260818/
+URL:http://universalis.com/Canada/20260818/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260818/today.htm
+SUMMARY:Tuesday of week 20 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260819
+UID:/Canada/20260819/
+URL:http://universalis.com/Canada/20260819/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260819/today.htm
+SUMMARY:Wednesday of week 20 in Ordinary Time,\n or Saint John Eudes, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260820
+UID:/Canada/20260820/
+URL:http://universalis.com/Canada/20260820/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260820/today.htm
+SUMMARY:Saint Bernard, Abbot, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260821
+UID:/Canada/20260821/
+URL:http://universalis.com/Canada/20260821/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260821/today.htm
+SUMMARY:Saint Pius X, Pope
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260822
+UID:/Canada/20260822/
+URL:http://universalis.com/Canada/20260822/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260822/today.htm
+SUMMARY:Our Lady, Mother and Queen
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260823
+UID:/Canada/20260823/
+URL:http://universalis.com/Canada/20260823/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260823/today.htm
+SUMMARY:21st Sunday in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260824
+UID:/Canada/20260824/
+URL:http://universalis.com/Canada/20260824/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260824/today.htm
+SUMMARY:Saint Bartholomew, Apostle
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260825
+UID:/Canada/20260825/
+URL:http://universalis.com/Canada/20260825/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260825/today.htm
+SUMMARY:Tuesday of week 21 in Ordinary Time,\n or Saint Louis,\n or Saint Joseph of Calasanz, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260826
+UID:/Canada/20260826/
+URL:http://universalis.com/Canada/20260826/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260826/today.htm
+SUMMARY:Wednesday of week 21 in Ordinary Time
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20250828T144853Z
+DTSTART;VALUE=DATE:20260827
+UID:/Canada/20260827/
+URL:http://universalis.com/Canada/20260827/today.htm
+DESCRIPTION:http://universalis.com/Canada/20260827/today.htm
+SUMMARY:Saint Monica
+END:VEVENT
+END:VCALENDAR
