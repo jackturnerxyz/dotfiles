@@ -1,0 +1,21 @@
+
+#!/bin/bash
+
+# Get sinks as JSON
+sinks=$(pactl -f json list sinks)
+
+# Extract card_name list for display
+choices=$(echo "$sinks" | jq -r '.[] | "🔊 " +  .properties["alsa.card_name"]')
+
+# Let user pick one in rofi
+selection=$(echo "$choices" | rofi -dmenu -p "Select audio sink:")
+
+# If nothing selected, exit
+[ -z "$selection" ] && exit 1
+
+# Find the corresponding sink "name" for the chosen card_name
+sink=$(echo "$sinks" | jq -r --arg sel "$selection" '.[] | select(.properties["alsa.card_name"] == $sel) | .name')
+
+# Set as default sink
+pactl set-default-sink "$sink"
+

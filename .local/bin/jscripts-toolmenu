@@ -1,0 +1,68 @@
+#!/bin/sh
+
+# --- Configuration ---
+# Set your preferred applications and default download location.
+# These can be overridden by setting environment variables (e.g., TERMINAL=alacritty).
+TERMINAL="${TERMINAL:-foot}"
+EDITOR="${EDITOR:-nvim}"
+BROWSER="${BROWSER:-xdg-open}"
+DEFAULT_DOWNLOAD_DIR="$HOME/Downloads"
+
+# --- Main Script ---
+
+# 1. Get content from the clipboard. Exit if it's empty.
+clipboard_content=$(wl-paste --primary)
+[ -z "$clipboard_content" ] && rofi -e "clipboard is empty." && exit 0
+
+# 2. Build and display the main menu in lowercase.
+#    URL-specific options only appear if the clipboard contains a URL.
+menu_options="edit text\ngenerate qr code"
+if echo "$clipboard_content" | grep -qE '^https?://'; then
+    menu_options="open in browser\ndownload file\n$menu_options"
+fi
+
+choice=$(echo -e "$menu_options" | rofi -dmenu -p "clipboard tool")
+[ -z "$choice" ] && exit 0 # Exit if user cancels.
+
+# 3. Execute the chosen action.
+case "$choice" in
+    "open in browser")
+        "$BROWSER" "$clipboard_content"
+        ;;
+
+    "edit text")
+        # Using a temporary file is the most reliable way to edit any text.
+        tmp_file=$(mktemp)
+        printf "%s" "$clipboard_content" > "$tmp_file"
+        "$TERMINAL" --title="scratchpd" -e "$EDITOR" "$tmp_file"
+        rm "$tmp_file"
+        ;;
+
+    "generate qr code")
+        tmp_qr_path="/tmp/clipboard-qr.png"
+        echo "$clipboard_content" | qrencode -s 10 -o "$tmp_qr_path"
+        sxiv -b "$tmp_qr_path"
+        ;;
+
+    "download file")
+        # Present a simple, static list of common directories for download.
+        dir_options="$DEFAULT_DOWNLOAD_DIR (default)\n$HOME\n$HOME/Pictures\n$HOME/Videos"
+        chosen_dir=$(echo -e "$dir_options" | rofi -dmenu -p "select download directory")
+
+        [ -z "$chosen_dir" ] && exit 0 # Exit if user cancels.
+
+        # Remove the ' (default)' text to get the actual path.
+        download_dir=$(echo "$chosen_dir" | sed 's/ (default)$//')
+        
+        mkdir -p "$download_dir" # Ensure the destination directory exists.
+        
+        # Launch wget in a new terminal window to show progress.
+        "$TERMINAL" --title="scratchpd" -T "downloading..." -e sh -c " \
+            echo 'URL: $clipboard_content' && \
+            echo 'Destination: $download_dir' && \
+            echo 'Starting in 3s (Ctrl-C to abort)...' && \
+            sleep 3 && \
+            wget -P \"$download_dir\" \"$clipboard_content\"; \
+            echo; echo 'Download finished. Press any key to close.'; read -n 1"
+        ;;
+esac
