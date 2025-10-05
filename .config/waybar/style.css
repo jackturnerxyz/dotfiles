@@ -30,3 +30,8 @@ window#waybar {
 #clock {
     margin: 0 5px;
 }
+
+#custom-divide {
+	padding-left: 4px;
+	padding-right: 4px;
+}

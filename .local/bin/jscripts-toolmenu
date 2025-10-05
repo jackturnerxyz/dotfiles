@@ -10,18 +10,18 @@ DEFAULT_DOWNLOAD_DIR="$HOME/Downloads"
 
 # --- Main Script ---
 
-# 1. Get content from the clipboard. Exit if it's empty.
+# 1. Get content from selection. Exit if it's empty.
 clipboard_content=$(wl-paste --primary)
-[ -z "$clipboard_content" ] && rofi -e "clipboard is empty." && exit 0
+[ -z "$clipboard_content" ] && rofi -e "selection is empty." && exit 0
 
 # 2. Build and display the main menu in lowercase.
-#    URL-specific options only appear if the clipboard contains a URL.
+#    URL-specific options only appear if the selection contains a URL.
 menu_options="edit text\ngenerate qr code"
 if echo "$clipboard_content" | grep -qE '^https?://'; then
     menu_options="open in browser\ndownload file\n$menu_options"
 fi
 
-choice=$(echo -e "$menu_options" | rofi -dmenu -p "clipboard tool")
+choice=$(echo -e "$menu_options" | rofi -dmenu -p "selection tool")
 [ -z "$choice" ] && exit 0 # Exit if user cancels.
 
 # 3. Execute the chosen action.
